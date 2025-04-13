@@ -1,4 +1,4 @@
-# Renommext - Outil de renommage d'extensions
+# listing_files_with_go - Outil de renommage d'extensions
 
 [![Go Version](https://img.shields.io/github/go-mod/go-version/zedauna/listing_files_with_go)](https://golang.org)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
