@@ -13,12 +13,12 @@ Outil en Go pour renommer massivement les extensions de fichiers de manière int
 
 ## Installation
 ```bash
-go install github.com/zedauna/listing_files_with_go@latest
+git clone https://github.com/zedauna/listing_files_with_go.git
 ```
 
 ## Utilisation
 ```bash
-listing_files_with_go
+ go run .
 > Entrez l'extension à rechercher : .jpg
 > Entrez le dossier : ~/Images
 ```
